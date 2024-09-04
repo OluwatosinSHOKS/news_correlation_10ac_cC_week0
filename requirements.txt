@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+seaborn
+gensim
+spacy
+nltk
+psycopg2-binary
+sqlalchemy
+plotly
